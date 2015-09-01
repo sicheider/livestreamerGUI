@@ -1,2 +1,2 @@
 # livestreamerGUI
-graphical userinterface for chrippa/livestreamer
+graphical userinterface for [livestreamer](https://github.com/chrippa/livestreamer)
