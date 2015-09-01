@@ -108,7 +108,7 @@ class GUI:
 
         self.delteStreamButton = tk.Button(self.app)
         self.delteStreamButton.configure(text = 'Delete selected Stream')
-        self.delteStreamButton.configure(command = self.deleteSelectetStream)
+        self.delteStreamButton.configure(command = self.deleteSelectedStream)
         self.delteStreamButton.configure(width = 20)
         self.delteStreamButton.grid(row = 4, column = 0, columnspan = 2)
 
